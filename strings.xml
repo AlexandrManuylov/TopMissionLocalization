@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Common-->
+    <string name="app_debug">Dev panel</string>
+    <string name="app_name">Top Mission</string>
+    <string name="app_fb_id">164039603783647</string>
+    <string name="app_vk_id">3785783</string>
+
+    <string name="common_ok">ОК</string>
+    <string name="common_yes">Да</string>
+    <string name="common_no">Нет</string>
+    <string name="common_network_error">Проверьте подключение к интернету</string>
+    <string name="common_unknown_error">Неизвестная ошибка</string>
+    <string name="common_update_error">Установите последнюю версию приложения</string>
+    <string name="common_error_need_update">Обновите приложение</string>
+    <string name="common_auth_error">Ошибка авторизации</string>
+    <string name="common_error_login_face_book">Не удалось авторизоваться в Facebook</string>
+    <string name="common_dialog_alert_title">Внимание!</string>
+    <string name="common_dialog_upgrade_required_message">Необходимо обновить приложение.</string>
+    <string name="common_dialog_upgrade_required_positive">Обновить</string>
+    <string name="common_allert_location_title">Местоположение</string>
+    <string name="common_points_quantity">%1$d Б.</string>
+    <string name="common_history_points_quantity">/ %1$d Б.</string>
+    <string name="common_time_pattern">%1$s:%2$s</string>
+    <string name="common_toast_profile_not_full">Необходимо заполнить профиль.</string>
+    <string name="common_allert_location_unavailable">Не удалось зарезервировать задание, так как текущая позиция пользователя недоступна</string>
+    <string name="common_allert_location_message">Необходимо включить определение координат. Включить?</string>
+    <string name="common_close">Закрыть</string>
+    <string name="common_allert_repeat">Повторить</string>
+    <string name="common_allert_exit">Выход</string>
+    <string name="common_exit">Выйти</string>
+
+    <!--Menu-->
+    <string name="menu_main_item">Главная</string>
+    <string name="menu_tasks_item">Задания</string>
+    <string name="menu_researches_item">Исследования</string>
+    <string name="menu_history_item">История</string>
+    <string name="menu_help_item">Помощь</string>
+    <string name="menu_settings_item">Настройки</string>
+
+    <!--Action_Bar-->
+    <string name="action_bar_title_task">Задание</string>
+
+    <!--Log_out_alert-->
+    <string name="log_out_title">Выйти?</string>
+    <string name="log_out_message">Вы действительно хотите выйти? Все неотправленные ответы будут удалены.</string>
+    <string name="log_out_positive">Да, выйти</string>
+    <string name="log_out_negative">Остаться</string>
+
+    <!--Tour_activity-->
+    <string name="tour_button_go">Приступить!</string>
+    <string name="tour_first_summary">Это быстрый и современный сервис для людей, готовых зарабатывать деньги буквально в шаговой доступности.</string>
+    <string name="tour_second_title">Всегда рядом</string>
+    <string name="tour_second_summary">Вам не придется далеко ехать – выберите задание рядом с вами! Часть наших заданий – опросы, которые можно заполнить в любом месте.</string>
+    <string name="tour_third_title">Простые задания</string>
+    <string name="tour_third_summary">Фотографируйте, отвечайте на несложные вопросы. Эта информация поможет мировым производителям улучшить свой сервис.</string>
+    <string name="tour_fourth_title">Выше рейтинг - больше заработок</string>
+    <string name="tour_fourth_summary">Чем выше ваш рейтинг, тем выше ваш заработок. Рейтинг зависит от своевременности и качества выполненных заданий.</string>
+    <string name="tour_fifth_title">Быстрые выплаты</string>
+    <string name="tour_fifth_summary">Оплата производится на телефон, или интернет кошелек WebMoney в течение трех дней после проверки качества выполнения задания.</string>
+    <string name="tour_sixth_title">Зарабатывайте с друзьями</string>
+    <string name="tour_sixth_summary">Передайте вашим друзьям промокод и получите 20% от их заработка после выполнения первых трех заданий.</string>
+
+    <!--Login_activity-->
+    <string name="login_title">Привет!</string>
+    <string name="login_title_hint">Мы \nTopMission.</string>
+    <string name="login_button">Войти в аккаунт</string>
+    <string name="login_another_hint">Или войдите через соцсети</string>
+    <string name="login_register_hint1">Нет аккаунта? </string>
+    <string name="login_register_hint2">Зарегистрируйтесь!</string>
+    <string name="login_name_hint"><i>Ваша почта</i></string>
+    <string name="login_pass_hint"><i>Пароль</i></string>
+    <string name="login_empty">Не может быть пустым</string>
+    <string name="login_forgot_pass"><u>Забыли пароль? Восстановить.</u></string>
+    <string name="login_wait">Подождите,\n идет загрузка…</string>
+    <string name="login_wrong_auth">Неправильный логин\n или пароль</string>
+    <string name="login_exception">Произошла ошибка, \nпопробуйте повторить</string>
+
+    <!--Registration_activity-->
+    <string name="registration_allert_title">Подтверждение регистрации</string>
+    <string name="registration_title_work">Учёба и работа</string>
+    <string name="registration_title_address">Проживаю</string>
+    <string name="registration_hello_title">Добро Пожаловать</string>
+    <string name="registration_facebook_title">Facebook</string>
+    <string name="registration_vk_title">Вконтакте</string>
+    <string name="registration_my_profile_title">Мои данные</string>
+    <string name="registration_complete2">Необходимо активировать профиль, перейдя по ссылке в письме, которое было отправлено на email, указанный при регистрации. Если письмо не пришло, обратитесь в службу техподдержки support@topmission.ru</string>
+    <string name="registration_complete2_ok">Я все понял(а), проверю</string>
+    <string name="registration_email_hint"><i>Электронная почта</i></string>
+    <string name="registration_password_hint"><i>Пароль</i></string>
+    <string name="registration_social_title">Вы можете ускорить процесс регистрации, и упростить вход в приложение, используя учетную запись своей социальной сети</string>
+    <string name="registration_title">Регистрация</string>
+    <string name="registration_edit_mode_title">Редактирование</string>
+    <string name="registration_first_name"><i>Имя</i></string>
+    <string name="registration_last_name"><i>Фамилия</i></string>
+    <string name="registration_sex_m">Мужской</string>
+    <string name="registration_sex_f">Женский</string>
+    <string name="registration_birthday_day"><i>День</i></string>
+    <string name="registration_birthday_month"><i>Месяц</i></string>
+    <string name="registration_birthday_year"><i>Год</i></string>
+    <string name="registration_country">Страна</string>
+    <string name="registration_city"><i>Город</i></string>
+    <string name="registration_street"><i>Улица</i></string>
+    <string name="registration_building"><i>Дом</i></string>
+    <string name="registration_education">Ваше образование*</string>
+    <string name="registration_career">Род деятельности</string>
+    <string name="registration_phone_no">+7 (</string>
+    <string name="registration_not_complеte">Регистрация не завершена, вы действительно хотите выйти?</string>
+    <string name="registration_edit_mode_profile_not_complete">Не сохраненные данные не будет сохранены</string>
+    <string name="registration_licence_text_url">http://topmission.ru/ua</string>
+    <string name="registration_edit_info">Вы сможете отредактировать любую информацию о себе после регистрации</string>
+    <string name="registration_promo_code_text"><i>Промо-код, если есть</i></string>
+    <string name="registration_add_second_address">Добавить адрес места работы/учёбы</string>
+    <string name="registration_del_second_address">Не добавлять адрес места работы/учёбы</string>
+    <string name="registration_license_text1">Нажимая на кнопку &#171;Зарегистрироваться&#187;, вы подтверждаете своё согласие с</string>
+    <string name="registration_license_text2">условиями использования приложения</string>
+    <string name="registration_ok">Зарегистрироваться</string>
+    <string name="registration_add_password">Добавить пароль</string>
+    <string name="registration_del_password">Не добавлять пароль</string>
+    <string name="registration_add_password_info">Создание пароля добавит возможность входа в приложение используя адрес электронной почты + пароль</string>
+    <string name="registration_edit_mode_save">Сохранить</string>
+    <string name="registration_allert_input_social_date">Заполнить личной информацией из социальной сети?</string>
+    <string name="registration_edit_mode_profile_saved">Профиль успешно сохранен</string>
+
+    <!--Record_allert-->
+    <string name="recording_title">Аудиозапись</string>
+    <string name="recording_warning_exit_question">Аудиозапись продолжается в фоновом режиме. Вернуться в список вопросов?</string>
+    <string name="recording_warning_next_question">Аудиозапись продолжится в фоновом режиме. Перейти к следующему вопросу?</string>
+    <string name="recording_warning_send_quest">Внимание, осуществляется аудиозапись. Остановить запись и отправить задание на сервер?</string>
+    <string name="recording_warning_exit">Внимание, осуществляется аудиозапись. Остановить запись и прервать выполнение задания?</string>
+    <string name="recording_old_alert_warning">Аудиозапись в вопросе "%1$s" будет завершена. Начать новую?</string>
+    <string name="recording_old_warning">Производится аудиозапись в вопросе "%1$s"</string>
+    <string name="recording_error_text">Внимание, аудиозапись остановлена. Запустить аудиозапись можно в соответствующем вопросе задания.</string>
+    <string name="recording_delete_title">Удалить аудиозапись?</string>
+    <string name="recording_delete_message">Вы можете удалить любую из ваших аудиозаписей, если она не подходит.</string>
+    <string name="recording_delete_positive">Да, Удалить.</string>
+    <string name="recording_delete_negative">Нет, Спасибо.</string>
+
+    <!--Notification_activity-->
+    <string name="notification_remains_zero">Внимание! \nНа выполнение \nзадания осталось</string>
+    <string name="notification_remains_one">Внимание! \nНа выполнение \nзадания остался</string>
+    <string name="notification_remains_other">Внимание! \nНа выполнение \nзадания осталось</string>
+    <string name="notification_remains_hour_zero">меньше часа!</string>
+    <string name="notification_remains_hour_one">%d час!</string>
+    <string name="notification_remains_hour_two">%d часа!</string>
+    <string name="notification_remains_hour_other">%d часов!</string>
+    <string name="notification_remain_title">Внимание! \nНа выполнение \nзадания остался</string>
+    <string name="notification_sent_success_title">Ура!</string>
+    <string name="notification_sent_success_message">Ваше задание \nуспешно отправлено.</string>
+    <string name="notification_sent_progress_message">Ваше задание \nотправляется к нам.</string>
+    <string name="notification_not_sent_title">Ваше задание</string>
+    <string name="notification_not_sent_warning">не было \nотправлено.</string>
+    <string name="notification_not_sent_hint">Вы можете повторить или закрыть и повторить позже во вкладке "История заданий".</string>
+    <string name="notification_remain_time">1 час!</string>
+
+    <!--Payments-->
+    <string name="payments_activity_title">Список платежей</string>
+    <string name="payments_orders_title">Вывод средств</string>
+    <string name="payments_providers_promt">Выберите провайдера*</string>
+    <string name="payments_providers_info_webmoney">Внимание! Принимаются переводы только на рублевый кошелек WebMoney(WMR).\n\nПринимаются заявки на выплату суммы от 100 до 10 000 рублей</string>
+    <string name="payments_providers_info_old">Принимаются заявки на выплату суммы от 100 до 10 000 рублей</string>
+    <string name="payments_providers_hint_phone">Введите номер телефона</string>
+    <string name="payments_providers_hint_webmoney">Введите номер кошелька</string>
+    <string name="payments_providers_hint_amount">Сумма</string>
+    <string name="payments_providers_progress_message_loading">Загрузка провайдеров...</string>
+    <string name="payments_providers_progress_message_create">Отправка заявки...</string>
+    <string name="payments_providers_complete_order_create">Ваша заявка принята</string>
+    <string name="payments_providers_loading">Загрузка провайдеров...</string>
+    <string name="payments_providers_info">Принимаются заявки на выплату суммы от 100</string>
+    <string name="payments_providers_get_money">Получить деньги</string>
+    <string name="payments_providers_send_order">Отправить</string>
+
+    <!--Rating_allert-->
+    <string name="google_play_allert_rate_title">TopMission</string>
+    <string name="google_play_allert_rate_question">Вам понравилось наше приложение?</string>
+    <string name="google_play_allert_rate_message">Хотите поставить оценку?</string>
+    <string name="google_play_allert_rate_positive">Оценить</string>
+    <string name="google_play_allert_rate_negative">Не сейчас</string>
+
+    <!--Settings_activity-->
+    <string name="settings_social_info">Настройте привязку к своим аккаунтам в социальных сетях:</string>
+    <string name="settings_socail_label">Социальные сети</string>
+    <string name="settings_socail_add_complate">Социальная сеть привязана</string>
+    <string name="settings_socail_add_error">Не удалось привязать социальную сеть</string>
+    <string name="settings_socail_unscribe_complate">Социальная сеть отвязана</string>
+    <string name="settings_socail_unscribe_error">Не удалось отвязать социальную сеть</string>
+    <string name="settings_socail_update_error">Социальные сети</string>
+    <string name="settings_socail_progress_bar_message">Обновление...</string>
+    <string name="settings_socail_allert_warning_title">Внимание!</string>
+
+    <!--QuestDetailsFragment-->
+    <string name="quest_details_points_bad">Плохо</string>
+    <string name="quest_details_points_normal">Хорошо</string>
+    <string name="quest_details_points_good">Отлично</string>
+    <string name="quest_details_accepted">Задание было принято</string>
+    <string name="quest_details_rejected">Задание было отклонено</string>
+    <string name="quest_details_moderated">Задание находится на проверке</string>
+    <string name="quest_details_complited">Ваше задание ещё не проверено</string>
+    <string name="quest_details_good">Отлично</string>
+    <string name="quest_details_question">Вопрос</string>
+    <string name="quest_details_details">Задание номер %1$s, %2$s, %3$s.</string>
+
+    <!--Messages_activity-->
+    <string name="messages_activity_message">Не найдено приложение, с помощью которого можно обработать действие</string>
+    <string name="messages_pull_up">Потяни наверх для удаления</string>
+    <string name="messages_delete">Удалить</string>
+    <string name="messages_read_all">Прочёл все</string>
+    <string name="messages_sharing_completed">Сообщение опубликовано</string>
+    <string name="messages_sharing_in_progress">Сообщение будет опубликовано на стене</string>
+
+    <!--Settings_push-->
+    <string name="push_settings_hint">Расстояние от заданий, на котором будут приходить push-уведомления:</string>
+    <string name="push_settings_metrics">%1$d км</string>
+
+    <!--Main_Fragment-->
+    <string name="promo">Промокод: %1$s</string>
+    <string name="rating_title">Ваш рейтинг</string>
+    <string name="rating_hint">Качественно выполняйте задания</string>
+    <string name="earnings_title">Ваш доход</string>
+    <string name="earnings_hint">Больше работы - больше прибыль</string>
+    <string name="time_hint">До завершения ближайшего задания</string>
+    <string name="points">%1$d баллов</string>
+    <string name="start_questing">Начните искать себе задания с помощью кнопки меню</string>
+
+    <!--Reserach_Fragment-->
+    <string name="researches_title">Исследования</string>
+    <string name="researches_absent">На данный момент нет доступных исследований</string>
+
+    <!--Settings_Maps-->
+    <string name="settings_maps_zoom_summary">Отображение кнопок приближения/отдаления</string>
+
+    <!--Preferences-->
+    <string name="prefs_zoom_title">Карта</string>
+    <string name="prefs_camera_title">Камера</string>
+    <string name="prefs_accounts_title">Аккаунты соцсетей</string>
+
+    <!--Settings_Camera-->
+    <string name="settings_camera_summary">Использовать камеру TopMission</string>
+
+    <!--Tasks_Maps_Fragment-->
+    <string name="tasks_maps_select_layer">Выбор слоя</string>
+    <string name="tasks_mapsa_balloon_count">Заданий в данной точке: %1$s</string>
+
+    <!--Task_activity-->
+    <string name="task_loading_questions">Загрузка вопросов</string>
+    <string name="dialog_claim_distance_error_message">Вы слишком далеко и не можете взять это задание.</string>
+    <string name="claim_task">Взять задание</string>
+    <string name="claim_task_message">После подтверждения у вас будет %1$d ч., чтобы завершить задание. Продолжить?</string>
+    <string name="claim_task_limit">Вы можете зарезервировать не более %1$d заданий. Подождите, пока ваши задания будут проверены.</string>
+    <string name="cancel_task">Отменить задание</string>
+    <string name="cancel_task_message">Отказ от выполнения может повлиять на рейтинг агента. Вы отказываетесь от задания?</string>
+    <string name="cancel_task_progress_location_message">Подготовка...</string>
+    <string name="task_start_quest">Начать!</string>
+    <string name="task_continue_quest">Продолжить!</string>
+    <string name="task_claim_quest">Зарезервировать</string>
+    <string name="task_details_quest">Детали задания</string>
+
+    <!--Quest_activity-->
+    <string name="quest_progress">Прогресс выполнения</string>
+    <string name="quest_progress_pattern"> %1$d%%</string>
+    <string name="quest_progress_save_image">Сохранение фотографии...</string>
+    <string name="quest_progress_save_image_error">Не удалось сохранить фотографию</string>
+
+    <!--Components-->
+    <string name="components_answer_num">Введите числовой ответ</string>
+    <string name="components_answer_text">Введите ответ</string>
+    <string name="components_file_create_failure">Не удалось создать файл</string>
+
+    <!--Images_gallery-->
+    <string name="images_gallery_title">Просмотр изображения</string>
+    <string name="images_gallery_change">Изменить</string>
+    <string name="images_gallery_code">Код</string>
+    <string name="images_gallery_delete">Удалить</string>
+
+    <string name="images_allert_delete_title">Удалить фотографию?</string>
+    <string name="images_allert_delete_message">Вы можете удалить любую из ваших фотографий, если она не подходит.</string>
+    <string name="images_allert_delete_positive_button">Да. Удалить.</string>
+    <string name="images_allert_delete_negative_button">Нет, спасибо.</string>
+
+    <!--History_Fragment-->
+    <string name="history_empty">Вы еще не выполнили ни одного задания</string>
+    <string name="history_select_checking">На проверке</string>
+    <string name="history_select_accepted">Одобрены</string>
+    <string name="history_select_rejected">Отклонены</string>
+    <string name="history_state_accepted">Одобрено</string>
+    <string name="history_state_rejected">Отклонено</string>
+    <string name="history_state_checking">Отправлено</string>
+
+    <!--Tasks_List_Fragment-->
+    <string name="tasks_list_researches">Исследования (%1$d)</string>
+    <string name="tasks_list_empty">К сожалению, поблизости нет доступных заданий</string>
+
+    <!--Question_Processing_Fragment-->
+    <string name="question_allert_not_complete_title">Без ответа?</string>
+    <string name="question_allert_not_complete_message">Не был получен ответ на обязательный вопрос. Выйти?</string>
+    <string name="question_allert_not_complete_positive">Пропустить</string>
+    <string name="question_allert_not_complete_negative">Остаться</string>
+
+    <!--Question_List_Fragment-->
+    <string name="question_list_allert_send_title">Отправка</string>
+    <string name="question_list_allert_send_message">Отправить задание на проверку?</string>
+    <string name="question_list_toast_quest_not_complate">На некоторые обязательные вопросы нет ответа.</string>
+
+    <!--Camera-->
+    <string name="camera_settings">Настройки</string>
+    <string name="camera_auto_flash">Авто-вспышка</string>
+    <string name="camera_review">Предпросмотр</string>
+    <string name="camera_apply">Применить</string>
+    <string name="menu_take_money">Снять деньги</string>
+
+</resources>
