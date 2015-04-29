@@ -1,0 +1,45 @@
+
+[[Authentication]]
+    [AuthMainTitle] 
+        en = Hi!
+        ru = Привет!
+    [AuthDescriptionTitle] 
+        en = We are \nTopMission.
+        ru = Мы \nTopMission.
+    [AuthLogin]
+        en = Sign in with e-mail
+        ru = Войти в аккаунт
+    [AuthVKLogin]   
+        en = Sign in with Vkontakte
+        ru = Через vk.com
+    [AuthFBLogin]
+        en = Sign in with Facebook
+        ru = Через Facebook
+    [AuthRegisterTitle]
+        en = Not registered? Register here! >
+        ru = Нет аккаунта? Зарегистрируйтесь! >
+    [AuthRegister]
+        en = Register here! >
+        ru = Зарегистрируйтесь! >
+    [AuthErrorTitle]
+        en = Unable to authorize
+        ru = Ошибка авторизации
+    [AuthTwitterError]
+        en = Unable to locate your Twitter account on this device
+        ru = На этом устройстве не настроен аккаунт Twitter
+    [AuthFacebookError]
+        en = Unable to authorize using Facebook account
+        ru = Ошибка авторизации через Facebook
+    [AuthTwError] 
+        en = Unable to authorize using Twitter account
+        ru = Ошибка авторизации через Twitter
+    [AuthVKError] 
+        en = Unable to authorize using VKontakte account
+        ru = Ошибка авторизации через ВКонтакте
+    [AuthLoadingText] 
+        en = Please wait,\n downloading data...
+        ru = Подождите,\n идет загрузка...
+    [AuthNotAttached] 
+        en = Your account is not linked with this social network account
+        ru = Аккаунт не привязн к этой соцсети
+    
